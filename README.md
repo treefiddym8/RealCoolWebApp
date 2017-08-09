@@ -1,1 +1,3 @@
 # RealCoolWebApp
+
+A prognosticator. 
